@@ -19,16 +19,16 @@
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=Aroxy22&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aroxy22&theme=dracula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aroxy22&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rudra-2005&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rudra-2005&theme=dracula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-2005&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aryan mehra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan mehra" height="30" width="40" /></a>
-<a href="https://instagram.com/aryanmehra222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanmehra222" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Rudrapriya Chakraborty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rudrapriya Chakraborty" height="30" width="40" /></a>
+<a href="https://instagram.com/_r.udr.a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_r.udr.a_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
