@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **
 
-- 📫 How to reach me *rudrachax@gmail.co20m*
+- 📫 How to reach me *rudrachax@gmail.com*
 
 
 
