@@ -5,15 +5,11 @@
 
 
 
-- 🔭 I’m currently working on *AI/ML projects*
-
-- 🌱 I’m currently learning *Machine Learning*
+- 🔭 I’m currently working on *AI/ML project* 
 
 - 👯 I’m looking to collaborate on *all my projects*
 
 - 🤝 I’m looking for help with *anyone*
-
-- 💬 Ask me about **
 
 - 📫 How to reach me *rudrachax@gmail.com*
 
